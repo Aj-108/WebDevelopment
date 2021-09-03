@@ -1,0 +1,47 @@
+* {
+    color : red ;
+    background-color :whitesmoke ;
+    margin-left: auto;
+    padding: auto;
+}
+
+#d {
+    color : black ;
+    margin-left : 50px ;
+}
+
+p{
+    font-size: 20px;
+}
+
+.para{
+    background-color:yellow;
+}
+
+#p2 {
+    font-family: 'Courier';
+    font-style: inherit;
+    font-weight: bolder;
+}
+
+h4{
+    display : inline ;
+}
+
+.box{
+    margin: 20px;
+    padding: 10px ;
+    border: solid black 3px;
+}
+
+#div1{
+    background-color: lightgreen;
+}
+
+#div2{
+    background-color: lightsalmon;
+}
+
+#div3{
+    background-color: lightcyan;
+}

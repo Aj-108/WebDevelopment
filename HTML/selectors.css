@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+h1:hover{
+    color: red;
+    background-color: lightgray;
+}
+
+ul ul ul li{
+    display: none;
+}
+
+ul ul li:hover {
+    background-color: gray;
+    display: block;
+}
