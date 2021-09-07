@@ -1,0 +1,27 @@
+p{
+    margin : 10px ;
+    border: black solid 2px;
+    display: inline-block;
+    padding: 7px;
+}
+
+#change{
+    background-color: grey;
+}
+
+button{
+    margin : 10px ;
+    padding: 6px;
+    width : 8%;
+    background-color: aqua;
+    border: none;
+    font-size: 20px;
+}
+
+.open{
+    display : block ;
+}
+
+.close{
+    display: none;
+}

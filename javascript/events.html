@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="events.css">
+</head>
+<body>
+    <h1>Modify the Dom </h1>
+    <button type="button"  onclick="hide(); firstButton()"> First </button>
+    <button type="button" onclick="show(); secondButton()" > Second</button><br>
+    <p>This shouldn't change </p><br>
+    <p id="change">It will change accordingly </p> <br>
+    <p>This sohuldn't change either </p><br>
+    <script src="events.js"></script>
+    <br>
+    <div id="test" >  para appear only when ypu click on secondButton </div>
+</body>
+</html>
